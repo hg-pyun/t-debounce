@@ -1,5 +1,9 @@
 # t-debounce
 
+![npm](https://img.shields.io/npm/v/t-debounce)
+![npm](https://img.shields.io/npm/dt/t-debounce)
+![NPM](https://img.shields.io/npm/l/t-debounce)
+
 The tiny debounce function.
 
 ## Installation

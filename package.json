@@ -1,11 +1,16 @@
 {
   "name": "t-debounce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The tiny debounce function",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "debounce",
+    "tiny",
+    "library"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hg-pyun/t-debounce.git"
